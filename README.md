@@ -1,1 +1,1 @@
-# collegeguessr
+# wordleClone
