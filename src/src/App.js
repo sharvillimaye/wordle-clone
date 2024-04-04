@@ -65,7 +65,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Wordle</h1>
+        <h1>Infinite Wordle</h1>
       </nav>
       <AppContext.Provider value={{board, setBoard, currentAttempt, setCurrentAttempt, onSelectLetter, onDelete, 
         onEnter, correctWord, disabledLetters, setDisabledLetters, gameOver, setGameOver}}>
